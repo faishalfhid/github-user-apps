@@ -1,0 +1,103 @@
+<resources>
+    <string name="app_name">Street Food Malang</string>
+    <string name="kuliner_name">Kuliner di Malang</string>
+    <string name="tempatloc">Tempat Lokasi</string>
+    <string name="aboutus">About Us</string>
+    <string name="jamOperasi">Jam Operasional</string>
+    <string name="hargaMakan">Harga Makanan</string>
+    <string name="aboutusdesc">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam urna sem, ornare a bibendum eu, fermentum non quam. Praesent ut consectetur quam. Nunc sagittis mollis nisi sed aliquet. Nullam vitae neque eu tellus pellentesque rutrum nec et metus. Nullam sodales, ipsum faucibus ultricies dictum, tellus mi tempus diam, maximus venenatis massa metus vitae ipsum. Aenean in fermentum justo, et aliquet nulla. Integer eget congue est. Etiam a mi id odio commodo aliquam. Cras felis nibh, viverra eu mattis non, rutrum id quam. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Maecenas id diam tempus, fringilla est iaculis, efficitur felis. Pellentesque vel egestas libero, id tincidunt odio.</string>
+    <string name="title">Tentang Makanan</string>
+    <string name="lokasi">Lokasi:</string>
+    <string name="harga">Kisaran Harga:</string>
+    <string name="operasional">Jam Operasional:</string>
+    <string name="bagikan_lokasi">Bagikan Lokasi</string>
+    <string name="about_name">Faishal Fariz Hidayatullah</string>
+    <string name="email">faishalfh1@gmail.com</string>
+    <string-array name="data_name">
+        <item>Depot Hok Lay</item>
+        <item>Toko Oen Malang</item>
+        <item>Pecel Kawi Malang Hj. Musilah</item>
+        <item>Warung Lama Haji Ridwan</item>
+        <item>Bakso President</item>
+        <item>Depot Tahu Lontong Lonceng</item>
+        <item>Orem Orem Khas Arema</item>
+        <item>Mie Gajah Mada</item>
+        <item>Depot Han Tjwan Sing (HTS)</item>
+        <item>Warung Ronde Titoni</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/kuliner1</item>
+        <item>@drawable/kuliner2</item>
+        <item>@drawable/kuliner3</item>
+        <item>@drawable/kuliner4</item>
+        <item>@drawable/kuliner5</item>
+        <item>@drawable/kuliner6</item>
+        <item>@drawable/kuliner7</item>
+        <item>@drawable/kuliner8</item>
+        <item>@drawable/kuliner9</item>
+        <item>@drawable/kuliner10</item>
+    </integer-array>
+    <string-array name="data_lokasi">
+        <item>Jl. KH Ahmad Dahlan No.10, Sukoharjo, Kec. Klojen, Kota Malang, Jawa Timur 65118</item>
+        <item>Jl. Jenderal Basuki Rahmat No.5, Kauman, Kec. Klojen, Kota Malang, Jawa Timur 65119</item>
+        <item>Jl. Kawi Kios No.43B Kauman, Bareng, Kec. Klojen, Kota Malang, Jawa Timur 65116</item>
+        <item>Pasar Besar Malang Lantai Dasar Unit B15 -16, Jalan Pasar Besar, Sukoharjo, Klojen, Sukoharjo, Kec. Klojen, Kota Malang, Jawa Timur 65141</item>
+        <item>Jl. Batanghari No.5, Rampal Celaket, Kec. Klojen, Kota Malang, Jawa Timur 65111</item>
+        <item>Jl. R.E. Martadinata, Kotalama, Kec. Kedungkandang, Kota Malang, Jawa Timur 65118g</item>
+        <item>Jl. Blitar No.14A, Sumbersari, Kec. Lowokwaru, Kota Malang, Jawa Timur 65145</item>
+        <item>Jl. Pasar Besar No.17 A, Sukoharjo, Kec. Klojen, Kota Malang, Jawa Timur 65118</item>
+        <item>Jl. DR. Wahidin No.123, Krajan, Kalirejo, Kec. Lawang, Kabupaten Malang, Jawa Timur 65215</item>
+        <item>Jl. Zainul Arifin No.17, Sukoharjo, Kec. Klojen, Kota Malang, Jawa Timur 65119</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>Rumah Makan yang dibangun pada 1946 ini memiliki beraneka ragam menu masakan dari mie hingga lumpia.Minumannya pun tak kalah eksis. Beberapa waktu lalu Depot Hok Lay pernah viral karena menu susu coklat yang disajikan di botol Coca Cola, Fosco.</item>
+        <item>Suasana vintage sangat terasa ketika memasuki Toko Oen. Kamu bakal mendapati desain bangunan dan interior bernuansa Belanda dengan kesan jadul, tapi tetap asyik. </item>
+        <item>Perbedaan Pecel Kawi dengan pecel pada biasanya, pecel yang satu ini dilengkapi rempeyek, telur, tempe, bakwan, dadar jagung dan sebagainya. Rasanya dijamin enak dan gurih.</item>
+        <item>Warung Lama Haji Ridwan terletak di lantai dasar Pasar Besar Malang. Warungnya cukup sederhana, tetapi kelezatannya tidak bisa diragukan lagi, Toppers. Kamu bakal menikmati berbagai masakan khas Malang yang begitu murah meriah di sini.</item>
+        <item>Ada satu tempat makan bakso legendaris di sini, namanya Bakso President. Masyarakat lokal pasti tahu benar asal usul usaha bakso Malang, karena telah ada sejak tahun 1970-an.</item>
+        <item>Depot Tahu Lontong Lonceng menyediakan sajian lontong tahu dengan saus kacang yang nikmat. Warung sederhana ini cukup terkenal di kalangan masyarakat Malang. Diketahui, Tahu Lonceng telah dibuka sejak tahun 1935.</item>
+        <item>Ini adalah makanan khas Malang yang berbahan dasar irisan tempe goreng, ayam, kemudian dimasak dengan kuah santan kental. Secara sekilas, makanan Jawa ini mirip dengan opor.</item>
+        <item>Rumah makan di Malang ini menyediakan berbagai macam menu mie yang bikin ngiler. Ada mie ayam jamur, mie pangsit kering, mie rica-rica, dan lain sebagainya.</item>
+        <item>Rumah makan yang satu ini adalah tempat makan favorit warga Malang sejak zaman Belanda. Depot Han Tjwan Sing atau yang lebih dikenal dengan HTS menawarkan menu masakan Jawa dimulai dari nasi rawon, nasi krengsengan, sop buntut, hingga iga masak.</item>
+        <item>Hangatkan badan dengan mengunjungi Warung Ronde Titoni di Jalan Zainul Arifin, Malang. Warung ini adalah kuliner malam legendaris yang telah ada sejak 1948. Tiap hari, menu utama ronde kerap diburu oleh warga sekitar maupun wisatawan.</item>
+    </string-array>
+    <string-array name="data_operasional">
+        <item>Setiap hari, 09.00–20.00 WIB</item>
+        <item>Setiap hari, 08.00–20.00 WIB</item>
+        <item>Setiap hari, 06.00–17.30 WIB</item>
+        <item>Setiap hari, 08.00–16.00 WIB</item>
+        <item>Setiap hari, 08.00–21.30 WIB</item>
+        <item>Setiap hari, 10.45–22.00 WIB</item>
+        <item>Setiap hari, 09.30–16.30 WIB (Jumat tutup)</item>
+        <item>Setiap hari, 09.00–20.00 WIB</item>
+        <item>Setiap hari, 07.00–19.00 WIB</item>
+        <item>Senin–Sabtu, 18.00–00.00 WIB</item>
+    </string-array>
+    <string-array name="data_harga">
+        <item>Rp20.000–Rp25.000/menu</item>
+        <item>Rp25.000–Rp60.000/menu</item>
+        <item>Rp10.000–Rp30.000/menu</item>
+        <item>Rp4.000–Rp17.500/menu</item>
+        <item>Rp12.000–Rp25.000/menu</item>
+        <item>Rp5.000–Rp11.000/menu</item>
+        <item>Rp7.000–Rp15.000/menu</item>
+        <item>Rp25.000–Rp48.000/menu</item>
+        <item>Rp4.800–Rp50.000/menu</item>
+        <item>Rp3.000–Rp8.000/menu</item>
+    </string-array>
+
+    <string-array name="data_shareloc">
+        <item>https://maps.app.goo.gl/Ef3SwpWL6JQDw8US6</item>
+        <item>https://maps.app.goo.gl/ZDY67PBifdztwatf8</item>
+        <item>https://maps.app.goo.gl/x6gCduxWutkeXLvs8</item>
+        <item>https://maps.app.goo.gl/XEnwUpmYS9onhpEHA</item>
+        <item>https://maps.app.goo.gl/N4Jpyt2xzuPSgPff7</item>
+        <item>https://maps.app.goo.gl/ZUVLPUuuNx6B5i189</item>
+        <item>https://maps.app.goo.gl/sz74UWzzzyd3LCTAA</item>
+        <item>https://maps.app.goo.gl/uL2HEm4MGFUxaCGD7</item>
+        <item>https://maps.app.goo.gl/Dt3WyDT9kPYATd9TA</item>
+        <item>https://maps.app.goo.gl/Kq9rk9PJLrERyjAu7</item>
+    </string-array>
+
+</resources>

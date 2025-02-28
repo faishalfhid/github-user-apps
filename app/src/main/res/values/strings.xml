@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">GitHub User</string>
+    <string name="searchbar_hint">Mau cari siapa nih?</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tab_text_1">Followers</string>
+    <string name="tab_text_2">Following</string>
+    <string name="content_tab_home">tes home\n</string>
+    <string name="content_tab_text">This is Tab %1$d</string>
+    <string name="username">Username</string>
+    <string name="nama_akun">Nama Akun</string>
+    <string name="jumlah_followers">Jumlah Followers</string>
+    <string name="jumlah_following">Jumlah Following</string>
+    <string name="added">Berhasil menambahkan Bookmark</string>
+    <string name="failed">Gagal menambahkan ke dalam Bookmark</string>
+    <string name="deleted">User berhasil dihapus dari Bookmark</string>
+    <string name="favmenu">Halaman Favorit</string>
+    <string name="noData">Belum ada user Favorite</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="NoData">User ini tidak mengikuti siapapun.</string>
+    <string name="NoDataFollowers">User ini tidak memiliki followers.</string>
+    <string name="followers">%1$s Followers</string>
+    <string name="following">%1$s Following</string>
+    <string name="deleteFav">User dihapus dari favorite</string>
+    <string name="addFav">User ditambahkan ke favorite</string>
+
+</resources>

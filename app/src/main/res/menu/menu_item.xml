@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/menu_favorite"
+        android:icon="@drawable/baseline_favorite_2"
+        android:title="Favorite"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/menu_dark_mode"
+        android:icon="@drawable/baseline_dark_mode"
+        android:title="Dark Mode"
+        app:showAsAction="always" />
+</menu>
